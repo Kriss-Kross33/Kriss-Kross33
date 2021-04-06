@@ -9,9 +9,7 @@
 ## ✉️ Find me on:
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
 
