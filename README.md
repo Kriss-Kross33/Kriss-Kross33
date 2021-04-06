@@ -12,6 +12,8 @@
 icons/twitter.svg" />][twitter]
 <br/>
 
+[twitter]: https://twitter.com/5h0xw4v3
+
 - 🌱 I’m currently learning NodeJs
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
