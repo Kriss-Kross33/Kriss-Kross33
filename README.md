@@ -2,6 +2,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=Kriss-Kross33.Kriss-Kross33)
 
+I am a software engineer working at Waya money Limited, a fintech startup . I love programming, writing, speaking and traveling.
+
+A computer programmer with high exertise in backend coding (formerly a natural resource manager) who fell in love with computer programming during my second year in the university. I learnt python programming language during my leisure time and mingled with other tech enthusiast. I love reading, discussing about tech and playing video games.
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kriss-Kross33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
