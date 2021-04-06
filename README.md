@@ -4,7 +4,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kriss-Kross33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&layout=compact&theme=default&langs_count=6)
 
 ## ✉️ Find me on:
 
