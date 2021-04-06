@@ -18,6 +18,7 @@ height="40" style="vertical-align:top; margin:4px"></a>
 
 [![Twitter: 5h0xw4v3](https://img.shields.io/twitter/follow/5h0xw4v3?style=social)](https://twitter.com/5h0xw4v3)
 [![Linkedin: kwame-fosu-18bb06129](https://img.shields.io/badge/-kwame-fosu-18bb06129-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwame-fosu-18bb06129/)](https://www.linkedin.com/in/kwame-fosu-18bb06129/)
+[![Linkedin: kwame-fosu-18bb06129](https://img.shields.io/badge/-kwame-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwame-fosu-18bb06129/)](https://www.linkedin.com/in/kwame-fosu-18bb06129/)
 [![GitHub Kriss-Kross33](https://img.shields.io/github/followers/Kriss-Kross33?label=follow&style=social)](https://github.com/Kriss-Kross33)
 
 [twitter]: https://twitter.com/5h0xw4v3
