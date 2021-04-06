@@ -8,6 +8,8 @@
 
 ## ✉️ Find me on:
 
+[<img align="left" alt="Kriss-Kross33 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/
+icons/twitter.svg" />][twitter]
 
 - 🌱 I’m currently learning NodeJs
 - 😄 Pronouns: He
