@@ -6,6 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&layout=compact&theme=default&langs_count=6)
 
+- 🌱 I’m currently learning NodeJs
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
+
 ## ✉️ Find me on:
 
 [![Twitter: 5h0xw4v3](https://img.shields.io/twitter/follow/5h0xw4v3?style=social)](https://twitter.com/5h0xw4v3)
@@ -23,9 +27,7 @@
 
 [twitter]: https://twitter.com/5h0xw4v3
 
-- 🌱 I’m currently learning NodeJs
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
+
 
 <!--
 **Kriss-Kross33/Kriss-Kross33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
