@@ -4,7 +4,10 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kriss-Kross33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&layout=compact&theme=default&langs_count=6)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kriss-Kross33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 - 🌱 I’m currently learning NodeJs
 - 😄 Pronouns: He
@@ -24,9 +27,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="20" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="20" style="vertical-align:top; margin:4px">
 </p>
-
-[twitter]: https://twitter.com/5h0xw4v3
-
 
 
 <!--
