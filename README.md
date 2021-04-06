@@ -8,9 +8,15 @@
 
 ## ✉️ Find me on:
 
+<!--
 [<img align="left" alt="Kriss-Kross33 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/
 icons/twitter.svg" />][twitter]
 <br/>
+-->
+<a href="https://twitter.com/5h0xw4v3"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Kriss-Kross33 | Twitter" 
+height="40" style="vertical-align:top; margin:4px"></a>
+
+https://twitter.com/5h0xw4v3
 
 [twitter]: https://twitter.com/5h0xw4v3
 
