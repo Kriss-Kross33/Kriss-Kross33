@@ -12,10 +12,6 @@ A computer programmer with high exertise in backend coding (formerly a natural r
 - ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
 - 📫 How to reach me: kwamefosu33@gmail.com;
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kriss-Kross33&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 ## ✉️ Find me on:
 
