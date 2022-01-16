@@ -33,6 +33,7 @@ A computer programmer with high exertise in backend coding (formerly a natural r
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="20" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="20" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="20" style="vertical-align:top; margin:4px">
+<img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" height="20" style="vertical-align:top; margin:4px">
 </p>
 
 
