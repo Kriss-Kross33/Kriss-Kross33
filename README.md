@@ -24,6 +24,8 @@ A computer programmer with high exertise in backend coding (formerly a natural r
 [![Linkedin: kwame-fosu-18bb06129](https://img.shields.io/badge/-kwame-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwame-fosu-18bb06129/)](https://www.linkedin.com/in/kwame-fosu-18bb06129/)
 [![GitHub Kriss-Kross33](https://img.shields.io/github/followers/Kriss-Kross33?label=follow&style=social)](https://github.com/Kriss-Kross33)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kriss-Kross33&" alt="Kriss-Kross33" /></p>
+
 ## 🧰 Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="20" style="vertical-align:top; margin:4px">
