@@ -18,6 +18,9 @@ A computer programmer with high exertise in backend coding (formerly a natural r
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriss-Kross33&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kriss-Kross33&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
 ## ✉️ Find me on:
 
 [![Twitter: 5h0xw4v3](https://img.shields.io/twitter/follow/5h0xw4v3?style=social)](https://twitter.com/5h0xw4v3)
