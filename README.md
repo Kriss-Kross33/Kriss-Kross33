@@ -8,7 +8,6 @@ A computer programmer with high exertise in backend coding (formerly a natural r
 
 - 🔭 I’m currently working on the mobile app for Waya Money
 - 🌱 I’m currently learning swift for ios
-- 😄 Pronouns: He
 - ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
 - 📫 How to reach me: kwamefosu33@gmail.com;
 
