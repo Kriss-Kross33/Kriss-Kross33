@@ -6,8 +6,8 @@ I am a software engineer working at Waya money Limited, a fintech startup . I lo
 
 A computer programmer with high exertise in backend coding (formerly a natural resource manager) who fell in love with computer programming during my second year in the university. I learnt python programming language during my leisure time and mingled with other tech enthusiast. I love reading, discussing about tech and playing video games.
 
-- 🔭 I’m currently working on the mobile app for Waya Money
-- 🌱 I’m currently learning swift for ios
+- 🔭 I’m currently working on the mobile app for Emit-Labs
+- 🌱 I’m currently learning fastapi and SQLAlchemy
 - ⚡ Fun fact: I love soccer (Huge chelsea and BvB fan), and gaming on xbox
 - 📫 How to reach me: kwamefosu33@gmail.com;
 
